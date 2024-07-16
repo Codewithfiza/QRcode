@@ -37,24 +37,24 @@ body {
     align-items: center;
 
     background-color: white;
-    height: 450px;
+    height: 497px;
     width: 320px;
     border-radius: 1rem;
 }
 img {
-    height: 275px;
+    height: 288px;
     width: 288px;
-   margin-bottom: 1.5rem;
+   margin-top: 1rem;
     border-radius: 1rem;
 }
 .text {
     display: flex;
     flex-direction: column;
     text-align: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     
-    height:120px ;
-    width: 280px;
+    height:288px ;
+    width: 288px;
     
 }
 .text2 {
